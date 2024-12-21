@@ -1,0 +1,166 @@
+/* PAPOVA virus start*/
+.h1-Papova-Virus{
+    text-align: center;
+    color:rgb(219, 146, 50);
+    font-style: italic;
+    font-weight: 700;
+    text-decoration: underline;
+    margin-top: 30px;
+}
+p{
+    text-align: center;
+    font-style: italic;
+    font-size: bold;
+    margin-top: 20px;
+   
+}
+.h3-intro{
+    margin-top: 120px;
+    margin-left: 40px;
+    font-family:Adobe Garamond Pro Bold;
+    font-size: 34px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+h3{
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 30px;
+    color:rgb(219, 146, 50) ;
+}
+h5{
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 30px;
+    color:rgb(219, 146, 50) ;
+}
+#img-human-1{
+    width: 90%;
+    height: 35%;
+    margin-top: 190px; 
+}
+
+
+/* year originated start */
+
+.h2-year{
+    color:rgb(219, 146, 50);
+    font-style: italic;
+    font-weight: 700;
+    text-decoration: underline;
+    margin-top: 50px;
+}
+
+#img-year{
+    width: 90%;
+    height: 88%;
+    margin-top: 40px;
+}
+
+/* year originated end */
+
+/* location of origin start */
+
+.h2-Location{
+    color:rgb(219, 146, 50);
+    font-style: italic;
+    font-weight: 700;
+    text-decoration: underline;
+    margin-top: 50px;
+}
+
+#img-location{
+    width: 90%;
+    height: 40%;
+    margin-top: 160px; 
+}
+
+/* spread of virus start */
+
+.h2-Spread-z{
+    color:rgb(219, 146, 50);
+    font-style: italic;
+    font-weight: 700;
+    text-decoration: underline;
+    margin-top: 50px;
+}
+
+
+#img-sperad{
+    width: 90%;
+    height: 75%;
+    margin-top: 200px; 
+}
+
+/* spread of virus end */
+
+/* FACTS & FIGURES OF DAMADE CAUSED BY VIRUS start */
+
+.h2-papova{
+    color:rgb(219, 146, 50);
+    font-style: italic;
+    font-weight: 700;
+    text-decoration: underline;
+    margin-top: 50px;
+}
+
+#img-facts{
+    width: 90%;
+    height: 75%;
+    margin-top: 200px;
+}
+
+/* FACTS & FIGURES OF DAMADE CAUSED BY VIRUS end */
+
+/* precation recouerd */
+.h2-Precaution{
+    color:rgb(219, 146, 50);
+    font-style: italic;
+    font-weight: 700;
+    text-decoration: underline;
+    margin-top: 50px;
+}
+
+
+
+
+/* precation recored start */
+
+
+
+#img-precation{
+    width: 90%;
+    height: 45%;
+    margin-top: 80px;
+}
+
+
+ /* accordian start */
+ .accordion {
+background-color: #eee;
+color: #444;
+cursor: pointer;
+padding: 18px;
+width: 100%;
+border: none;
+text-align: left;
+outline: none;
+font-size: 15px;
+transition: 0.4s;
+}
+
+.active, .accordion:hover {
+background-color: #ccc; 
+}
+
+.panel {
+padding: 0 18px;
+display: none;
+ background-color: white;
+ overflow: hidden;
+}  
+.h2-Frequently{ 
+    color:rgb(219, 146, 50);
+    font-style: italic;
+    font-weight: 700;
+    text-decoration: underline;
+    margin-top: 50px;
+} 

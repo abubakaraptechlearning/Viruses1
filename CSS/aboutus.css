@@ -1,0 +1,295 @@
+/* About us page strat */
+
+ /* about us */
+ .main-img {
+    background-image: url("../Images/JPG/img-main3.jpg");
+    width: 100%;
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.main {
+    background-color:rgba(0, 0, 0, 0.336);
+    width: 100%;
+    height: 90vh;
+    color: white;
+    padding-top: 100px;
+    line-height: 20px;
+
+
+
+}
+
+.abt-hdng {
+    font-weight: 800;
+    text-align: center;
+    font-style: italic;
+    cursor: pointer;
+    color: rgba(218, 138, 34, 0.973);
+
+
+
+
+}
+
+.abt-para {
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    cursor: pointer;
+}
+
+/* welcome to vertex */
+.welcome {
+    background-color: aliceblue;
+    color: black;
+    position: relative;
+    top: -60px;
+
+
+}
+
+.wlcm-hdng {
+    font-weight: 800;
+    text-align: center;
+    font-style: italic;
+    cursor: pointer;
+    padding-top: 40px;
+    color: rgb(218, 138, 34);
+    transition-duration: 0.5s;
+    transition-delay: 0.5s;
+    transition-property: all;
+    transition-timing-function: ease;
+    transform: scale(100%);
+
+}
+
+.wlcm-hdng:hover {
+    transform: scale(100%);
+    color: rgb(247, 168, 66);
+    text-decoration: underline 4px solid;
+
+}
+
+
+
+
+.wlcm-para {
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    cursor: pointer;
+    line-height: 35px;
+
+
+}
+
+
+
+/* our mission our vision our objectives our commitment and join us and images  */
+
+.our-hdng {
+    font-weight: 800;
+    text-align: center;
+    font-style: italic;
+    cursor: pointer;
+    padding-top: 40px;
+    color: rgb(218, 138, 34);
+    transition-duration: 0.5s;
+    transition-delay: 0.5s;
+    transition-property: all;
+    transition-timing-function: ease;
+    transform: scale(100%);
+
+}
+
+.our-hdng:hover {
+    transform: scale(100%);
+    color: rgb(247, 168, 66);
+    text-decoration: underline 4px solid;
+
+}
+
+
+
+
+.our-para {
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    cursor: pointer;
+    line-height: 35px;
+}
+
+.mission-img {
+    width: 100%;
+    height: 80%;
+    margin-top: 100px;
+    transition-delay: 0.5s;
+    transition-duration: 0.5s;
+    transition-property: all;
+    transition-timing-function: ease;
+    transform: scale(90%);
+    border-radius: 10px;
+    border: 2px solid rgb(218, 138, 34);
+
+}
+
+.mission-img:hover {
+    transform: scale(100%);
+}
+
+
+.our-hdng-2 {
+    font-weight: 700;
+    font-size: 26px;
+    text-align: center;
+    font-style: italic;
+    cursor: pointer;
+    padding-top: 40px;
+    color: rgb(218, 138, 34);
+    transition-duration: 0.5s;
+    transition-delay: 0.5s;
+    transition-property: all;
+    transition-timing-function: ease;
+    transform: scale(100%);
+
+}
+
+
+/* our objectives heading '2' */
+
+.our-hdng-2:hover {
+    transform: scale(100%);
+    color: rgb(247, 168, 66);
+    text-decoration: underline 4px solid;
+
+}
+
+.our-para-2 {
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    cursor: pointer;
+    line-height: 35px;
+
+
+}
+
+/*  our objectives 2 images */
+
+.our-img {
+    width: 100%;
+    height: 100%;
+
+    transition-delay: 0.5s;
+    transition-duration: 0.5s;
+    transition-property: all;
+    transition-timing-function: ease;
+    transform: scale(90%);
+    border-radius: 10px;
+    border: 2px solid rgb(218, 138, 34);
+
+}
+
+.our-img:hover {
+    transform: scale(100%);
+}
+
+
+/*  heading and cards */
+
+.crd-hdng {
+    font-weight: 800;
+    text-align: center;
+    font-style: italic;
+    cursor: pointer;
+    padding-top: 40px;
+    color: rgb(218, 138, 34);
+    transition-duration: 0.5s;
+    transition-delay: 0.5s;
+    transition-property: all;
+    transition-timing-function: ease;
+    transform: scale(100%);
+
+}
+
+.crd-hdng:hover {
+    transform: scale(100%);
+    color: rgb(247, 168, 66);
+    text-decoration: underline 4px solid;
+
+}
+
+
+
+
+.crd-para {
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    cursor: pointer;
+    line-height: 35px;
+}
+
+
+.card-body {
+    background-color: beige;
+    transition-duration: 0.5s;
+    transition-delay: 0.5s;
+    transition-property: all;
+    transition-timing-function: ease;
+    transform: scale(95%);
+    border-radius: 15px;
+
+
+}
+
+.card-body:hover {
+    transform: scale(100%);
+    background-color: antiquewhite;
+}
+
+
+.card-title {
+    font-weight: 600;
+    font-style: italic;
+    cursor: pointer;
+    text-align: center;
+    color: rgb(218, 138, 34);
+
+}
+
+
+
+.card-text {
+    font-weight: bold;
+    font-style: italic;
+    cursor: pointer;
+    text-align: center;
+
+
+}
+
+hr {
+    border: 2px solid;
+}
+.button-style{
+    width: 150px;
+    height: 30px;
+    background-color: burlywood;
+    color: black;
+    border: transparent;
+    border-radius: 20px;
+}
+.button-style:hover{
+    background-color: rgba(24, 2, 4, 1);
+    color: burlywood;
+    border: 2px solid burlywood;
+    border-radius: 20px;
+}
+
+
+/* About us page end */

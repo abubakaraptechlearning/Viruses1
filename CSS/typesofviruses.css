@@ -1,0 +1,310 @@
+/* header start */
+
+.header {
+  padding-right: 20px;
+}
+
+.heading {
+  font-size: 32px;
+  font-weight: 700;
+  font-style: italic;
+  color: rgb(218, 138, 34);
+  text-align: end;
+  padding-right: 35px;
+}
+
+.para1 {
+  font-size: 18px;
+  font-weight: bold;
+  font-style: italic;
+  text-align: end;
+
+}
+
+
+.detail-nav {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  padding: 0%;
+}
+
+.number-nav {
+  font-size: medium;
+  font-weight: bold;
+  font-style: italic;
+  color: rgb(26, 3, 48);
+  background-color: white;
+  border: 2px solid rgb(26, 3, 48);
+  border-radius: 20px;
+  padding: 5px;
+
+}
+
+.number-nav:hover {
+  background-color: rgb(28, 4, 51);
+  color: burlywood;
+  border: 2px solid burlywood;
+}
+
+
+
+.email-nav:hover {
+  background-color: rgb(26, 2, 48);
+  color: burlywood;
+  border: 2px solid burlywood;
+}
+
+
+
+
+
+
+/* header end */
+
+
+/* navbar css start */
+.navbar {
+  background-color: rgb(12, 2, 22);
+
+}
+
+.logo-img {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  margin-left: 50px;
+  
+
+  transition-duration: 1s;
+  transition-delay: 1s;
+  transition-property: all;
+  transition-timing-function: ease;
+  transform: scale(90%);
+}
+
+.logo-img:hover {
+  transform: scale(100%);
+
+}
+
+.navbar-nav {
+
+  position: relative;
+  top: -20px;
+  margin: 25px;
+
+
+}
+
+
+.nav-link {
+  color: white;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-style: italic;
+  border: 2px solid rgba(12, 2, 22, 0.021);
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 30px;
+  transition-duration: 0.5s;
+  transition-delay: 0.5s;
+  transition-property: all;
+  transition-timing-function: ease;
+  padding: 10px;
+  margin-left: 30px;
+}
+
+
+.nav-link:hover {
+  color: burlywood;
+  border: 2px solid burlywood;
+  border-radius: 50px;
+}
+
+.search-nav {
+  padding-top: 20px;
+  padding-right: 30px;
+
+
+
+}
+
+.search-input {
+  border-radius: 15px;
+
+}
+
+.navbar-toggler {
+
+  background-color: white;
+}
+/* types of viruses section */
+.typesofviruses-main{
+    background-color: white;
+}
+.tov-heading{
+    text-align: center;
+    color: black;
+}
+.tov-para{
+    text-align: center;
+    color: black;
+}
+.tov-heading-cards{
+    color: black;
+    font-weight: 700;
+    text-align: center;
+    
+}
+.card {
+    padding: 7px;
+    margin: 10px;
+    border-radius: 15px;
+    transition-duration: 0.5s;
+    transition-delay: 0.5s;
+    transition-property: all;
+    transition-timing-function: ease;
+    transform: scale(95%);
+  }
+  .card:hover{
+    transform: scale(100%);
+    background-color: rgba(226, 195, 154, 0.788);
+  
+   }
+   .card-img-top {
+    height: 200px;
+  }
+  .card-body {
+    background-color: rgb(26, 3, 48);
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+  }
+  .card-title {
+
+    font-weight: 700;
+    color: white;
+    text-decoration: underline 3px solid;
+  }
+  .card-text {
+    font-size: 16px;
+    color: white;
+  }
+  .button-style{
+    display: inline-block;
+      width: 150px;
+      height: 30px;
+      background-color: burlywood;
+      color: black;
+      border: transparent;
+      border-radius: 20px;
+  }
+  .button-style:hover{
+      background-color: rgba(24, 2, 4, 1);
+      color: burlywood;
+      border: 2px solid burlywood;
+      border-radius: 20px;
+  }
+/* types of viruses section ends */
+
+/* footer starts */
+#quick-links a{
+    color: white;
+    text-decoration: none;
+}
+#quick-links li{
+    list-style: none;
+    color: white;
+}
+#quick-links{
+    padding-top: 15px;
+}
+#quick-links a:hover{
+    color: white;
+    text-decoration: underline;
+}
+#quick-links li:first-child{
+    color: white;
+    text-decoration: underline 2px burlywood;
+}
+footer{
+    background-color: rgb(26, 3, 48);
+}
+.design{
+    font-size: large;
+    font-style: italic;
+}
+#about{
+    list-style: none;
+}
+#about li{
+    padding-top: 15px;
+}
+.design-2{
+    color: white;
+    font-size: large;
+    font-style: italic;
+    text-decoration: underline 2px burlywood;   
+}
+.text-style{
+    color: white;
+}
+#contact{
+    list-style: none;
+}
+#contact li{
+    padding-top: 15px;
+}
+.design-3{
+    color: white;
+    font-size: large;
+    font-style: italic;
+    text-decoration: underline 2px burlywood;
+}
+.style-box{
+    width: 14rem;
+    height: 40px;
+    /* border: 1px solid red; */
+}
+.image-style{
+    width: 30px;
+    height: 30px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.main{
+    background-color: rgba(24, 2, 4, 1);
+}
+/* footer ends */
+/* media query starts */
+/* navbar media qeury */
+
+@media (min-width:1200px) {
+  .navbar-nav {
+      margin-left: 150px;
+  }
+
+}
+
+@media (max-width:1150px) {
+  .navbar-nav {
+      margin-right: 100px;
+  }
+
+}
+/* header media query */
+
+@media (max-width:991px) {
+  .heading {
+      text-align: center;
+      padding-left: 30px;
+  }
+
+  .para1 {
+      text-align: center;
+  }
+
+}
+  /* media query ends */

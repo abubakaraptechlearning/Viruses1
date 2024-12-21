@@ -1,0 +1,168 @@
+
+  /* crowsel card start */
+
+  .heading-carousel{
+    font-size: 36px;
+    font-weight: 700;
+    font-style: italic;
+    text-align: center;
+    padding-top: 20px;
+    color: rgb(26, 2, 48);  
+  }
+
+  .para1-carousel{
+    font-size: 20px;
+    font-weight: 500;
+    font-style: italic;
+    text-align: center;
+  }
+  .card {
+    padding: 7px;
+    margin: 10px;
+    border-radius: 15px;
+    transition-duration: 0.5s;
+    transition-delay: 0.5s;
+    transition-property: all;
+    transition-timing-function: ease;
+    transform: scale(95%);
+  }
+
+   .card:hover{
+    transform: scale(100%);
+    background-color: rgba(226, 195, 154, 0.788);
+  
+   }
+
+  .card-img-top {
+    height: 200px;
+  }
+
+  .card-body {
+    background-color: rgb(26, 3, 48);
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+  }
+
+  .card-title {
+
+    font-weight: 700;
+    color: white;
+    text-decoration: underline 3px solid;
+  }
+
+  .card-text {
+    font-size: 16px;
+    color: white;
+  }
+/* carousal ends */
+  
+  /* banner start */
+#banner-style{
+    background: linear-gradient(to bottom right, #33ccff 0%, #ff99cc 100%);
+    text-align: center;
+}
+.textbanner-style{
+    background-color: black;
+          background-image: url('../Images/GIF/Scientists\ Stock\ Footage\ \ \(1\).gif');
+            background-repeat: repeat;
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-size: 150px;
+            text-align: center;
+            font-weight: bold;
+            text-transform: uppercase;
+            font-family: 'Steelfish Rg', 'helvetica neue', 
+                            helvetica, arial, sans-serif;
+            font-weight: 800;
+            -webkit-font-smoothing: antialiased;
+}
+p{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+}
+.button-style{
+  display: inline-block;
+    width: 150px;
+    height: 30px;
+    background-color: burlywood;
+    color: black;
+    border: transparent;
+    border-radius: 20px;
+}
+.button-style:hover{
+    background-color: rgba(24, 2, 4, 1);
+    color: burlywood;
+    border: 2px solid burlywood;
+    border-radius: 20px;
+}
+/* banner ends */
+/* contact us section starts */
+.contact-e-input{
+    width: 300px;
+    height: 50px;
+}
+.contact-p-input{
+    width: 300px;
+    height: 50px;
+}
+.main-contact{
+    background-color: rgb(16, 7, 40);
+}
+.contact-para{
+    font-size: 20px;
+}
+/* contact us section ends */
+/* text section means hover effect */
+.main{
+    height: 80vh;
+    position: relative;
+    overflow: hidden;
+    background-image: url('../Images/JPG/text\ section\ image.jpg');
+    background-size: 100% 100%;
+}
+.textsection{
+    background-color:rgba(26, 3, 48, 0.452);
+    color: white;
+    width: 100%;
+    height: 300px;
+    position: absolute;
+    bottom: -250px;
+    left: 0px;
+    text-align: center;
+}
+.main:hover .textsection{
+    transition-property: all;
+    transition-duration: 1s;
+    transition-timing-function: ease;
+    bottom: 0px;
+}
+/* text section means hover effect */
+
+
+.modal-design{
+  background-color: rgb(26, 3, 48);
+  color: white;
+}
+/* media query css starts */
+@media screen and (max-width:1280px) {
+  .textbanner-style{
+    font-size: 100px;
+  }
+}
+
+@media screen and (max-width:800px) {
+  .textbanner-style{
+    font-size: 80px;
+  }
+}
+
+@media screen and (max-width:650px) {
+  .textbanner-style{
+    font-size: 60px;
+  }
+}
+
+/* media query css ends */

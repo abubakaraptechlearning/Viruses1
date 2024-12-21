@@ -1,0 +1,351 @@
+/* Influenza virus start*/
+.h1-Rota{
+    text-align: center;
+    color:rgb(219, 146, 50);
+    font-style: italic;
+    font-weight: 700;
+    text-decoration: underline;
+    margin-top: 30px;
+    
+}
+h5{
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 30px;
+    color:rgb(219, 146, 50) ;
+}
+
+p{
+    text-align: center;
+    font-style: italic;
+    font-size: bold;
+    margin-top: 20px; ;
+   
+}
+
+
+
+.h3-Types{
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 30px;
+    color:rgb(219, 146, 50) ;
+}
+.h3-intro-1{
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 100px;
+    color:rgb(219, 146, 50) ;
+    text-align: center;
+}
+#img-zohaib-1{
+    width: 100%;
+    height: 60%;
+    margin-top: 250px; 
+    border: 3px solid rgb(219, 146, 50);
+    border-radius: 15px;
+    transition-duration: 0.5s;
+    transition-delay: 0.5s;
+    transition-property: all;
+    transition-timing-function: ease;
+    transform: scale(90%);
+}
+#img-zohaib-1:hover{
+   transform: scale(100%);
+
+}
+/* year originated start */
+
+.h2-year{
+    color:rgb(219, 146, 50);
+    font-style: italic;
+    font-weight: 700;
+    text-decoration: underline;
+    margin-top: 50px;
+}
+.pra{
+    margin-top: 30px;
+}
+.h3-Year-2{
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 30px;
+    color:rgb(219, 146, 50) ;
+
+}
+.h3-Origin{
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 30px;
+    color:rgb(219, 146, 50) ;
+}
+.h3-Medium{
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 30px;
+    color:rgb(219, 146, 50) ;
+
+}
+.h3-Details{
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 30px;
+    color:rgb(219, 146, 50) ;
+
+}
+#img-year{
+    width: 100%;
+    height: 60%;
+    margin-top: 250px; 
+    border: 3px solid rgb(219, 146, 50);
+    border-radius: 15px;
+    transition-duration: 0.5s;
+    transition-delay: 0.5s;
+    transition-property: all;
+    transition-timing-function: ease;
+    transform: scale(90%);
+}
+
+/* year originated end */
+
+/* location of origin start */
+
+.h2-Location{
+    margin-top: 70px;
+    color:rgb(219, 146, 50);
+    font-style: italic;
+    font-weight: 700;
+    text-decoration: underline;
+    margin-bottom: 30px ;
+}
+.h3-Key{
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 30px;
+    color:rgb(219, 146, 50) ;
+    
+
+}
+.h3-Mechanisms{
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 30px;
+    color:rgb(219, 146, 50) ;
+}
+.h5-1918{
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 30px;
+    color:rgb(219, 146, 50) ;
+}
+.h5-Migratory{
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 30px;
+    color:rgb(219, 146, 50) ;
+}
+#img-location{
+    width: 100%;
+    height: 55%;
+    margin-top:65%; 
+    border: 3px solid rgb(219, 146, 50);
+    border-radius: 15px;
+    transition-duration: 0.5s;
+    transition-delay: 0.5s;
+    transition-property: all;
+    transition-timing-function: ease;
+    transform: scale(90%);
+}
+
+
+/* spread of virus start */
+
+.h2-SPREAD{
+    color:rgb(219, 146, 50);
+    font-style: italic;
+    font-weight: 700;
+    text-decoration: underline;
+    margin-top: 70px;
+}
+.h3-Droplet{
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 30px;
+    color:rgb(219, 146, 50) ;
+}
+.h3-Contact{
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 30px;
+}
+.h3-Airborne{
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 30px;
+    color:rgb(219, 146, 50) ;
+}
+.h3-Contact{
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 30px;
+    color:rgb(219, 146, 50) ;
+}
+.h3-Environmental{
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 30px;
+    color:rgb(219, 146, 50) ;
+}
+.h3-Asymptomatic{
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 30px;
+    color:rgb(219, 146, 50) ;
+}
+.h3-Prevention{
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 30px;
+    color:rgb(219, 146, 50) ;
+}
+#img-sperad{
+    width: 100%;
+    height: 55%;
+    margin-top:45%; 
+    border: 3px solid rgb(219, 146, 50);
+    border-radius: 15px;
+    transition-duration: 0.5s;
+    transition-delay: 0.5s;
+    transition-property: all;
+    transition-timing-function: ease;
+    transform: scale(90%);
+}
+
+/* spread of virus end */
+
+/* FACTS & FIGURES OF DAMADE CAUSED BY VIRUS start */
+
+.h2-Facts{
+    color:rgb(219, 146, 50);
+    font-style: italic;
+    font-weight: 700;
+    text-decoration: underline;
+    margin-top: 70px;
+}
+.h3-Global{
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 30px;
+    color:rgb(219, 146, 50) ;
+}
+.h3-Economic{
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 30px;
+    color:rgb(219, 146, 50) ;
+}
+#img-facts{
+    width: 100%;
+    height: 55%;
+    margin-top:45%; 
+    border: 3px solid rgb(219, 146, 50);
+    border-radius: 15px;
+    transition-duration: 0.5s;
+    transition-delay: 0.5s;
+    transition-property: all;
+    transition-timing-function: ease;
+    transform: scale(90%);
+}
+/* precation recouerd */
+
+.h2-Precaution{
+    color:rgb(219, 146, 50);
+    font-style: italic;
+    font-weight: 700;
+    text-decoration: underline;
+    margin-top: 70px;
+}
+.h3-Vaccination{
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 30px;
+    color:rgb(219, 146, 50) ;
+}
+.h3-Good{
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 30px;
+    color:rgb(219, 146, 50) ;
+}
+.h3-Coughing{
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 30px;
+}
+.h3-Maintain{
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 30px;
+    color:rgb(219, 146, 50) ;
+}
+.h3-Clean{
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 30px;
+    color:rgb(219, 146, 50) ;
+}
+.h3-Boost{
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 30px;
+    color:rgb(219, 146, 50) ;
+}
+.h3-Avoid{
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 30px;
+    color:rgb(219, 146, 50) ;
+}
+
+/* FACTS & FIGURES OF DAMADE CAUSED BY VIRUS end */
+
+/* precation recored start */
+
+.h2-Precaution{
+    color:rgb(219, 146, 50);
+    font-style: italic;
+    font-weight: 700;
+    text-decoration: underline;
+    margin-top: 70px;
+}
+
+.h3-Coughing {
+    font-family:Adobe Garamond Pro Bold ;
+    margin-top: 30px;
+    color:rgb(219, 146, 50) ;
+}
+
+#img-precation{
+    width: 100%;
+    height: 65%;
+    margin-top:55%; 
+    border: 3px solid rgb(219, 146, 50);
+    border-radius: 15px;
+    transition-duration: 0.5s;
+    transition-delay: 0.5s;
+    transition-property: all;
+    transition-timing-function: ease;
+    transform: scale(90%);
+}
+.h2-Frequently{
+    color:rgb(219, 146, 50);
+    font-style: italic;
+    font-weight: 700;
+    text-decoration: underline;
+    margin-top: 70px;
+}
+
+ /* accordian start */
+ .accordion {
+background-color: #eee;
+color: #444;
+cursor: pointer;
+padding: 18px;
+width: 100%;
+border: none;
+text-align: left;
+outline: none;
+font-size: 15px;
+transition: 0.4s;
+}
+
+.active, .accordion:hover {
+background-color: #ccc; 
+}
+
+.panel {
+padding: 0 18px;
+display: none;
+ background-color: white;
+ overflow: hidden;
+}  
+.h2-Frequently{ 
+    color:rgb(219, 146, 50);
+    font-style: italic;
+    font-weight: 700;
+    text-decoration: underline;
+    margin-top: 50px;
+} 
